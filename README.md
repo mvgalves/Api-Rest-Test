@@ -35,8 +35,8 @@ classDiagram
   Checkout --> Feature  
 ```  
 
-📚 API de Gerenciamento de Cartões e Promoções  
-Esta é uma API RESTful desenvolvida com Spring Boot que gerencia informações de cartões de crédito e promoções associadas. Ela permite operações de consulta sobre cartões e promoções disponíveis, retornando dados em formato JSON para fácil integração com aplicações front-end ou clientes externos.  
+📚 API de Gerenciamento de Pedidos de Comida
+Esta é uma API RESTful desenvolvida com Spring Boot que gerencia informações para executar um pedido de comida. Ela permite operações de consulta sobre cartões e promoções disponíveis, retornando dados em formato JSON para fácil integração com aplicações front-end ou clientes externos.  
 
 ✨ Funcionalidades  
 Listar todos os cartões cadastrados  
